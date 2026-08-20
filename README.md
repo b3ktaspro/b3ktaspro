@@ -6,7 +6,7 @@
 
 ### About
 
-Hello , I'm a Product Engineer based in France. I enjoy building intuitive, performant, and maintainable interfaces with a strong focus on user experience.
+Hi , I'm a Product Engineer based in France. I enjoy building intuitive, performant, and maintainable interfaces with a strong focus on user experience.
 
 I create reusable, data-driven components with clear architecture, predictable interactions, and real application states.
 
