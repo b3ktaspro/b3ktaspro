@@ -16,7 +16,7 @@ I create reusable, data-driven components with clear architecture, predictable i
 
 <td width="40%" align="right" valign="middle">
 
-<img src="./github-metrics.svg" width="480" alt="GitHub Metrics">
+<img src="/github-metrics.svg" width="480" alt="GitHub Metrics">
 
 </td>
 </tr>
