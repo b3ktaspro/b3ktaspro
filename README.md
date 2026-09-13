@@ -10,7 +10,7 @@ Hi , I'm a Product Engineer based in France. I enjoy building intuitive, perform
 
 I create reusable, data-driven components with clear architecture, predictable interactions, and real application states.
 
-<img src="./.github/assets/ken-casino-is-mine.png" width="650" alt="b3ktas">
+<img src="./.github/assets/final-getsuga-tensho.gif" width="650" alt="b3ktas">
 
 </td>
 
